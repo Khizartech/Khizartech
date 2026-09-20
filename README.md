@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Khizar
 
-<!--
-**Khizartech/Khizartech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C Programming
+- Git & GitHub
+- Problem Solving
+
+## 🎯 My Goal
+
+To improve my programming skills, build interesting projects,
+and learn more about computer science.
+
+## ⚡ About Me
+
+I enjoy learning new things and understanding how technology works.
+
+---
+
+⭐ Learning something new every day.
