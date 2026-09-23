@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int age;
     float height;
     double salary;
@@ -29,7 +30,8 @@ int main() {
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float radius, area;
     const float PI = 3.14159;
 
@@ -45,7 +47,8 @@ int main() {
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float a, b, c, average;
 
     printf("Enter three numbers: ");
@@ -60,7 +63,8 @@ int main() {
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int a, b, temp;
 
     printf("Enter two numbers: ");
@@ -79,7 +83,8 @@ int main() {
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     // This is a single-line comment.
     printf("Hello, World!\n");
 
